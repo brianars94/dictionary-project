@@ -17,8 +17,14 @@ function App() {
 
       </p>
       <footer>
-        Coded by Briana Sanazzaro. Open sourced code on Github and hosted by Netfliy. 
+        Coded by 
+      <a href="https://www.linkedin.com/in/briana-sanazzaro/"> Briana Sanazzaro. </a> Open source code: <a href="https://github.com/brianars94/dictionary-project">Git Hub</a>
+      and hosted by Netfliy. 
       </footer>
+
+
+
+      
 
     </div>
   );
