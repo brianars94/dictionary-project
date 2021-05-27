@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-     header photo goes here...
+ <img src="skynews-dictionary-definition_4443820.jpeg" />
       </header>
       <p>
         
